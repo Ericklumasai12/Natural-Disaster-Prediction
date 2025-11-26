@@ -588,9 +588,27 @@ For deployment, continuous monitoring and periodic retraining are necessary. Inc
 
 ---
 
-## 5. Screenshots and Diagrams 📊
+## 5. Screenshots and Diagrams 
 
-This section describes the visual artifacts that support understanding and evaluation. While the report cannot embed real screenshots here, it details expected visuals and their interpretations.
+<img width="1402" height="608" alt="image" src="https://github.com/user-attachments/assets/045a5abb-3503-4a4d-b657-578f7cdf62b9" />
+
+
+<img width="1402" height="608" alt="image" src="https://github.com/user-attachments/assets/fd62af83-73a7-418c-9f3b-f41f955ccbdc" />
+
+
+<img width="1402" height="756" alt="image" src="https://github.com/user-attachments/assets/f6974a55-dccd-4099-8367-823dbe41b8b8" />
+
+
+<img width="1402" height="756" alt="image" src="https://github.com/user-attachments/assets/bf42a983-0ed2-4b27-984a-bbd28cd898ee" />
+
+
+<img width="1402" height="451" alt="image" src="https://github.com/user-attachments/assets/ed8a51ce-9177-425a-864d-9ec5b8563b0d" />
+
+<img width="1402" height="195" alt="image" src="https://github.com/user-attachments/assets/1f6ffc33-b257-485b-8976-e6e5a0186653" />
+
+
+<img width="1402" height="758" alt="image" src="https://github.com/user-attachments/assets/f6f30741-d5c7-4423-85e4-0a0bb12e4fb2" />
+
 
 ### 5.1 System Architecture Diagram
 
